@@ -1,0 +1,179 @@
+{
+    "Electronics": [
+        {
+            "name": "Smartphone",
+            "price": 699.99,
+            "brand": "Samsung",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Laptop",
+            "price": 999.99,
+            "brand": "Dell",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Tablet",
+            "price": 499.99,
+            "brand": "Apple",
+            "model_year": 2021,
+            "discount": 8
+        },
+        {
+            "name": "Smartwatch",
+            "price": 199.99,
+            "brand": "Fitbit",
+            "model_year": 2023,
+            "discount": 12
+        },
+        {
+            "name": "Speaker",
+            "price": 250.0,
+            "brand": "Bose",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Car",
+            "price": 10000,
+            "brand": "hm",
+            "model_year": 2025,
+            "discount": 10
+        }
+    ],
+    "Home Appliances": [
+        {
+            "name": "Refrigerator",
+            "price": 800.0,
+            "brand": "Whirlpool",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Washing Machine",
+            "price": 500.0,
+            "brand": "LG",
+            "model_year": 2023,
+            "discount": 12
+        },
+        {
+            "name": "Microwave",
+            "price": 150.0,
+            "brand": "Samsung",
+            "model_year": 2021,
+            "discount": 8
+        },
+        {
+            "name": "Dishwasher",
+            "price": 600.0,
+            "brand": "Bosch",
+            "model_year": 2023,
+            "discount": 10
+        },
+        {
+            "name": "Blender",
+            "price": 80.0,
+            "brand": "Ninja",
+            "model_year": 2022,
+            "discount": 15
+        },
+        {
+            "name": "Oven",
+            "price": 1000.0,
+            "brand": "GE",
+            "model_year": 2023,
+            "discount": 8
+        }
+    ],
+    "Fashion": [
+        {
+            "name": "Jeans",
+            "price": 50.0,
+            "brand": "Levi's",
+            "model_year": 2023,
+            "discount": 10
+        },
+        {
+            "name": "Jacket",
+            "price": 120.0,
+            "brand": "Adidas",
+            "model_year": 2022,
+            "discount": 15
+        },
+        {
+            "name": "Shoes",
+            "price": 80.0,
+            "brand": "Puma",
+            "model_year": 2023,
+            "discount": 8
+        },
+        {
+            "name": "Hat",
+            "price": 25.0,
+            "brand": "New Era",
+            "model_year": 2022,
+            "discount": 7
+        },
+        {
+            "name": "Socks",
+            "price": 10.0,
+            "brand": "Hanes",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Belt",
+            "price": 30.0,
+            "brand": "Gucci",
+            "model_year": 2023,
+            "discount": 10
+        }
+    ],
+    "Sports": [
+        {
+            "name": "Football",
+            "price": 25.0,
+            "brand": "Adidas",
+            "model_year": 2022,
+            "discount": 5
+        },
+        {
+            "name": "Basketball",
+            "price": 30.0,
+            "brand": "Nike",
+            "model_year": 2023,
+            "discount": 8
+        },
+        {
+            "name": "Tennis Racket",
+            "price": 100.0,
+            "brand": "Wilson",
+            "model_year": 2023,
+            "discount": 10
+        },
+        {
+            "name": "Golf Clubs",
+            "price": 500.0,
+            "brand": "Titleist",
+            "model_year": 2023,
+            "discount": 12
+        },
+        {
+            "name": "Yoga Mat",
+            "price": 20.0,
+            "brand": "Gaiam",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Dumbbells",
+            "price": 40.0,
+            "brand": "Bowflex",
+            "model_year": 2023,
+            "discount": 15
+        }
+    ],
+    "new2": []
+}

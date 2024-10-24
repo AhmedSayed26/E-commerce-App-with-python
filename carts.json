@@ -1,0 +1,57 @@
+{
+    "Omnia@gmail.com": [
+        {
+            "name": "Laptop",
+            "price": 999.99,
+            "brand": "Dell",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Refrigerator",
+            "price": 800.0,
+            "brand": "Whirlpool",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "TV",
+            "price": 1200.0,
+            "brand": "LG",
+            "model_year": 2023,
+            "discount": "15"
+        },
+        {
+            "name": "Smartphone",
+            "price": 699.99,
+            "brand": "Samsung",
+            "model_year": 2022,
+            "discount": 10
+        }
+    ],
+    "Ahmed@gmail.com": [
+        {
+            "name": "Basketball",
+            "price": 30.0,
+            "brand": "Nike",
+            "model_year": 2023,
+            "discount": 8
+        }
+    ],
+    "22ahmed@gmail.com": [
+        {
+            "name": "Car",
+            "price": 10000,
+            "brand": "hm",
+            "model_year": 2025,
+            "discount": 10
+        },
+        {
+            "name": "Smartphone",
+            "price": 699.99,
+            "brand": "Samsung",
+            "model_year": 2022,
+            "discount": 10
+        }
+    ]
+}
